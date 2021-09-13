@@ -1,0 +1,507 @@
+{
+  "displayMode": "format",
+  "doIntermediateUpdates": true,
+  "judgments": [
+    {
+      "threshold": 116,
+      "text": "%C<size=200%>%n==%s==</size>",
+      "color": [
+        1.000,
+        1.000,
+        1.000,
+        1.000
+      ]
+    },
+    {
+      "text": "<size=130%>%C</size> %n <size=120%> %B %A </size>",
+      "color": [
+        1.000,
+        1.000,
+        1.000,
+        1.000
+      ]
+    }
+  ],
+  "beforeCutAngleJudgments": [
+    {
+      "threshold": "70",
+      "text": ""
+    },
+    {
+      "threshold": "69",
+      "text": "<color=#00FFFF><u>_1_</u></color>"
+    },
+    {
+      "threshold": "68",
+      "text": "<color=#00FFFF><u>_2_</u></color>"
+    },
+    {
+      "threshold": "67",
+      "text": "<color=#00FFFF><u>_3_</u></color>"
+    },
+    {
+      "threshold": "66",
+      "text": "<color=#00FF00><u>_4_</u></color>"
+    },
+    {
+      "threshold": "65",
+      "text": "<color=#00FF00><u>_5_</u></color>"
+    },
+    {
+      "threshold": "64",
+      "text": "<color=#00FF00><u>_6_</u></color>"
+    },
+    {
+      "threshold": "63",
+      "text": "<color=#FFFF00><u>_7_</u></color>"
+    },
+    {
+      "threshold": "62",
+      "text": "<color=#FFFF00><u>_8_</u></color>"
+    },
+    {
+      "threshold": "61",
+      "text": "<color=#FFFF00><u>_9_</u></color>"
+    },
+    {
+      "threshold": "60",
+      "text": "<color=#FF0000><u>_10_</u></color>"
+    },
+    {
+      "threshold": "59",
+      "text": "<color=#FF0000><u>__11__</u></color>"
+    },
+    {
+      "threshold": "58",
+      "text": "<color=#FF0000><u>__12__</u></color>"
+    },
+    {
+      "threshold": "57",
+      "text": "<color=#FF0000><u>__13__</u></color>"
+    },
+    {
+      "threshold": "56",
+      "text": "<color=#FF0000><u>__14__</u></color>"
+    },
+    {
+      "threshold": "55",
+      "text": "<color=#FF0000><u>__15__</u></color>"
+    },
+    {
+      "threshold": "54",
+      "text": "<color=#FF0000><u>__16__</u></color>"
+    },
+    {
+      "threshold": "53",
+      "text": "<color=#FF0000><u>__17__</u></color>"
+    },
+    {
+      "threshold": "52",
+      "text": "<color=#FF0000><u>__18__</u></color>"
+    },
+    {
+      "threshold": "51",
+      "text": "<color=#FF0000><u>__19__</u></color>"
+    },
+    {
+      "threshold": "50",
+      "text": "<color=#FF0000><u>__20__</u></color>"
+    },
+    {
+      "threshold": "49",
+      "text": "<color=#FF0000><u>__21__</u></color>"
+    },
+    {
+      "threshold": "48",
+      "text": "<color=#FF0000><u>__22__</u></color>"
+    },
+    {
+      "threshold": "47",
+      "text": "<color=#FF0000><u>__23__</u></color>"
+    },
+    {
+      "threshold": "46",
+      "text": "<color=#FF0000><u>__24__</u></color>"
+    },
+    {
+      "threshold": "45",
+      "text": "<color=#FF0000><u>__25__</u></color>"
+    },
+    {
+      "threshold": "44",
+      "text": "<color=#FF0000><u>__26__</u></color>"
+    },
+    {
+      "threshold": "43",
+      "text": "<color=#FF0000><u>__27__</u></color>"
+    },
+    {
+      "threshold": "42",
+      "text": "<color=#FF0000><u>__28__</u></color>"
+    },
+    {
+      "threshold": "41",
+      "text": "<color=#FF0000><u>__29__</u></color>"
+    },
+    {
+      "threshold": "40",
+      "text": "<color=#FF0000><u>__30__</u></color>"
+    },
+    {
+      "threshold": "39",
+      "text": "<color=#FF0000><u>__31__</u></color>"
+    },
+    {
+      "threshold": "38",
+      "text": "<color=#FF0000><u>__32__</u></color>"
+    },
+    {
+      "threshold": "37",
+      "text": "<color=#FF0000><u>__33__</u></color>"
+    },
+    {
+      "threshold": "36",
+      "text": "<color=#FF0000><u>__34__</u></color>"
+    },
+    {
+      "threshold": "35",
+      "text": "<color=#FF0000><u>__35__</u></color>"
+    },
+    {
+      "threshold": "34",
+      "text": "<color=#FF0000><u>__36__</u></color>"
+    },
+    {
+      "threshold": "33",
+      "text": "<color=#FF0000><u>__37__</u></color>"
+    },
+    {
+      "threshold": "32",
+      "text": "<color=#FF0000><u>__38__</u></color>"
+    },
+    {
+      "threshold": "31",
+      "text": "<color=#FF0000><u>__39__</u></color>"
+    },
+    {
+      "threshold": "30",
+      "text": "<color=#FF0000><u>__40__</u></color>"
+    },
+    {
+      "threshold": "29",
+      "text": "<color=#FF0000><u>__41__</u></color>"
+    },
+    {
+      "threshold": "28",
+      "text": "<color=#FF0000><u>__42__</u></color>"
+    },
+    {
+      "threshold": "27",
+      "text": "<color=#FF0000><u>__43__</u></color>"
+    },
+    {
+      "threshold": "26",
+      "text": "<color=#FF0000><u>__44__</u></color>"
+    },
+    {
+      "threshold": "25",
+      "text": "<color=#FF0000><u>__45__</u></color>"
+    },
+    {
+      "threshold": "24",
+      "text": "<color=#FF0000><u>__46__</u></color>"
+    },
+    {
+      "threshold": "23",
+      "text": "<color=#FF0000><u>__47__</u></color>"
+    },
+    {
+      "threshold": "22",
+      "text": "<color=#FF0000><u>__48__</u></color>"
+    },
+    {
+      "threshold": "21",
+      "text": "<color=#FF0000><u>__49__</u></color>"
+    },
+    {
+      "threshold": "20",
+      "text": "<color=#FF0000><u>__50__</u></color>"
+    },
+    {
+      "threshold": "19",
+      "text": "<color=#FF0000><u>__51__</u></color>"
+    },
+    {
+      "threshold": "18",
+      "text": "<color=#FF0000><u>__52__</u></color>"
+    },
+    {
+      "threshold": "17",
+      "text": "<color=#FF0000><u>__53__</u></color>"
+    },
+    {
+      "threshold": "16",
+      "text": "<color=#FF0000><u>__54__</u></color>"
+    },
+    {
+      "threshold": "15",
+      "text": "<color=#FF0000><u>__55__</u></color>"
+    },
+    {
+      "threshold": "14",
+      "text": "<color=#FF0000><u>__56__</u></color>"
+    },
+    {
+      "threshold": "13",
+      "text": "<color=#FF0000><u>__57__</u></color>"
+    },
+    {
+      "threshold": "12",
+      "text": "<color=#FF0000><u>__58__</u></color>"
+    },
+    {
+      "threshold": "11",
+      "text": "<color=#FF0000><u>__59__</u></color>"
+    },
+    {
+      "threshold": "10",
+      "text": "<color=#FF0000><u>__60__</u></color>"
+    },
+    {
+      "threshold": "9",
+      "text": "<color=#FF0000><u>__61__</u></color>"
+    },
+    {
+      "threshold": "8",
+      "text": "<color=#FF0000><u>__62__</u></color>"
+    },
+    {
+      "threshold": "7",
+      "text": "<color=#FF0000><u>__63__</u></color>"
+    },
+    {
+      "threshold": "6",
+      "text": "<color=#FF0000><u>__64__</u></color>"
+    },
+    {
+      "threshold": "5",
+      "text": "<color=#FF0000><u>__65__</u></color>"
+    },
+    {
+      "threshold": "4",
+      "text": "<color=#FF0000><u>__66__</u></color>"
+    },
+    {
+      "threshold": "3",
+      "text": "<color=#FF0000><u>__67__</u></color>"
+    },
+    {
+      "threshold": "2",
+      "text": "<color=#FF0000><u>__68__</u></color>"
+    },
+    {
+      "threshold": "1",
+      "text": "<color=#FF0000><u>__69__</u></color>"
+    },
+    {
+      "threshold": "0",
+      "text": "<color=#FF0000><u>__70__</u></color>"
+    }
+  ],
+  "accuracyJudgments": [
+    {
+      "threshold": 15,
+      "text": "<size=175%>15</size>"
+    },
+    {
+      "threshold": 14,
+      "text": "<size=155%>14</size>"
+    },
+    {
+      "threshold": 13,
+      "text": "<size=140%><color=#00FFFF>13</color></size>"
+    },
+    {
+      "threshold": 12,
+      "text": "<size=115%><color=#00FFFF>12</color></size>"
+    },
+    {
+      "threshold": 11,
+      "text": "<color=#00FF00>11</color>"
+    },
+    {
+      "threshold": 10,
+      "text": "<color=#00FF00>10</color>"
+    },
+    {
+      "threshold": 9,
+      "text": "<color=#FFFF00>9</color>"
+    },
+    {
+      "threshold": 8,
+      "text": "<color=#FFFF00>8</color>"
+    },
+    {
+      "threshold": 7,
+      "text": "<color=#FFFF00>7</color>"
+    },
+    {
+      "threshold": 6,
+      "text": "<color=#FFFF00>6</color>"
+    },
+    {
+      "threshold": 5,
+      "text": "<color=#FF0000>5</color>"
+    },
+    {
+      "threshold": 4,
+      "text": "<color=#FF0000>4</color>"
+    },
+    {
+      "threshold": 3,
+      "text": "<color=#FF0000>3</color>"
+    },
+    {
+      "threshold": 2,
+      "text": "<color=#FF0000>2</color>"
+    },
+    {
+      "threshold": 1,
+      "text": "<color=#FF0000>1</color>"
+    },
+    {
+      "threshold": 0,
+      "text": "<color=#FF0000><u>0</u></color>"
+    }
+  ],
+  "afterCutAngleJudgments": [
+    {
+      "threshold": "31",
+      "text": "===%a==="
+    },
+    {
+      "threshold": "30",
+      "text": ""
+    },
+    {
+      "threshold": "29",
+      "text": "<color=#00FFFF><u>_1_</u></color>"
+    },
+    {
+      "threshold": "28",
+      "text": "<color=#00FFFF><u>_2_</u></color>"
+    },
+    {
+      "threshold": "27",
+      "text": "<color=#00FFFF><u>_3_</u></color>"
+    },
+    {
+      "threshold": "26",
+      "text": "<color=#00FF00><u>_4_</u></color>"
+    },
+    {
+      "threshold": "25",
+      "text": "<color=#00FF00><u>_5_</u></color>"
+    },
+    {
+      "threshold": "24",
+      "text": "<color=#00FF00><u>__6__</u></color>"
+    },
+    {
+      "threshold": "23",
+      "text": "<color=#FFFF00><u>__7__</u></color>"
+    },
+    {
+      "threshold": "22",
+      "text": "<color=#FFFF00><u>__8__</u></color>"
+    },
+    {
+      "threshold": "21",
+      "text": "<color=#FFFF00><u>__9__</u></color>"
+    },
+    {
+      "threshold": "20",
+      "text": "<color=#FF0000><u>__10__</u></color>"
+    },
+    {
+      "threshold": "19",
+      "text": "<color=#FF0000><u>__11__</u></color>"
+    },
+    {
+      "threshold": "18",
+      "text": "<color=#FF0000><u>__12__</u></color>"
+    },
+    {
+      "threshold": "17",
+      "text": "<color=#FF0000><u>__13__</u></color>"
+    },
+    {
+      "threshold": "16",
+      "text": "<color=#FF0000><u>__14__</u></color>"
+    },
+    {
+      "threshold": "15",
+      "text": "<color=#FF0000><u>__15__</u></color>"
+    },
+    {
+      "threshold": "14",
+      "text": "<color=#FF0000><u>__16__</u></color>"
+    },
+    {
+      "threshold": "13",
+      "text": "<color=#FF0000><u>__17__</u></color>"
+    },
+    {
+      "threshold": "12",
+      "text": "<color=#FF0000><u>__18__</u></color>"
+    },
+    {
+      "threshold": "11",
+      "text": "<color=#FF0000><u>__19__</u></color>"
+    },
+    {
+      "threshold": "10",
+      "text": "<color=#FF0000><u>__20__</u></color>"
+    },
+    {
+      "threshold": "9",
+      "text": "<color=#FF0000><u>__21__</u></color>"
+    },
+    {
+      "threshold": "8",
+      "text": "<color=#FF0000><u>__22__</u></color>"
+    },
+    {
+      "threshold": "7",
+      "text": "<color=#FF0000><u>__23__</u></color>"
+    },
+    {
+      "threshold": "6",
+      "text": "<color=#FF0000><u>__24__</u></color>"
+    },
+    {
+      "threshold": "5",
+      "text": "<color=#FF0000><u>__25__</u></color>"
+    },
+    {
+      "threshold": "4",
+      "text": "<color=#FF0000><u>__26__</u></color>"
+    },
+    {
+      "threshold": "3",
+      "text": "<color=#FF0000><u>__27__</u></color>"
+    },
+    {
+      "threshold": "2",
+      "text": "<color=#FF0000><u>__28__</u></color>"
+    },
+    {
+      "threshold": "1",
+      "text": "<color=#FF0000><u>__29__</u></color>"
+    },
+    {
+      "threshold": "0",
+      "text": "<color=#FF0000><u>__30__</u></color>"
+    }
+  ]
+}
